@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm limJhyoek</h1>
+<h1 align="center">Hi 👋, I'm Jhyoek</h1>
 <h3 align="center">A passionate deep learning engineer from Republic of Korea</h3>
 
 - 🔭 I’m currently working on [ChatGPT Clone](https://github.com/limJhyeok/ChatGPT-Clone)
@@ -6,13 +6,6 @@
 - 📝 I regularly write articles on [https://limjhyeok.github.io/](https://limjhyeok.github.io/)
 
 - 💬 Ask me about **deep learning, pytorch**
-
-- 📫 How to reach me **lj6887@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/https://limjhyeok.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://limjhyeok.github.io/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
