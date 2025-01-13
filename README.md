@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jhyoek</h1>
-<h3 align="center">A passionate deep learning engineer from Republic of Korea</h3>
+<h3 align="center">A passionate deep learning engineer </h3>
 
 - 🔭 I’m currently working on [ChatGPT Clone](https://github.com/limJhyeok/ChatGPT-Clone)
 
 - 📝 I regularly write articles on [https://limjhyeok.github.io/](https://limjhyeok.github.io/)
 
-- 💬 Ask me about **deep learning, pytorch**
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
