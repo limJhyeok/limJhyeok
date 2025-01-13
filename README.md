@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JaeHyeok</h1>
-<h3 align="center">A passionate deep learning engineer from Republic of Korea</h3>
+<h3 align="center">A passionate deep learning engineer</h3>
 
 - 🔭 I’m currently working on [ChatGPT Clone](https://github.com/limJhyeok/ChatGPT-Clone)
 
@@ -8,10 +8,6 @@
 - 💬 Ask me about **deep learning, pytorch**
 
 - 📫 How to reach me **lj6887@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
