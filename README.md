@@ -18,10 +18,17 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width = "40" height="40"/>
   </a>
 </p>
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=limjhyeok&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limjhyeok&show_icons=true&locale=en&layout=compact" alt="limjhyeok" /></p>
+<h3 align="left">Git Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=limjhyeok&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=limjhyeok&" alt="Streak Stats"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limjhyeok&show_icons=true&locale=en" alt="limjhyeok" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limjhyeok&" alt="limjhyeok" /></p>
+
 
