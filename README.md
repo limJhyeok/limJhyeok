@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhyoek</h1>
 <h3 align="center"> A deep learning engineer passionate about sharing knowledge </h3>
 
-- 🔭 I’m currently working on [ChatGPT Clone](https://github.com/limJhyeok/ChatGPT-Clone)
-
-- 📝 I regularly write articles on [https://limjhyeok.github.io/](https://limjhyeok.github.io/)
+- 🔭 I’m currently working on [Essay Feedback Writer](https://github.com/limJhyeok/Essay-Feedback-Writer)
 
 
 <h3 align="left">Tools:</h3>
